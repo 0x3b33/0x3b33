@@ -1,13 +1,12 @@
-# I am 0x3b, a smart contract security researcher
+# I am 0x3b, a smart contract security researcher.
 
-My journey began in February 2022, and since then, I have participated in various contests on Code4rena, Sherlock, CodeHawks, and Cantina. I have placed in multiple top 5 positions and achieved first place in one of them.
+My journey began in February 2022, and since then, I have actively participated in various contests on platforms such as Code4rena, Sherlock, CodeHawks, and Cantina. Securing multiple top 5 positions, I even achieved first place in one of them. My primary objective is to excel in the web3 security space.
 
-I have audited lending protocols, DAOs, perpetuals, AMMs, liquidity management vaults, and all kinds of Uniswap v3 integrations.
+### Professional Experience
+- I have audited lending protocols, DAOs, perpetuals, AMMs, liquidity management vaults, and various Uniswap v3 integrations.
 
 ### Personal Projects
-Hey, I write articles, some about web3 development, some about security, and some for optimizing your mind.
-
----
+I write articles, some about web3 development, some about security, and some for optimizing your mind, you can check them out [here](https://code4rena.com/@0x3b).
 
 # Summary
 
