@@ -12,10 +12,10 @@ I write articles, some about web3 development, some about security, and some for
 
 | Overall | High risk |  Medium risk |
 |:--:|:--:|:--:|
-| 47 High/Medium | 25 High | 22 Medium | 
+| 48 High/Medium | 26 High | 22 Medium | 
 
 
-# Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
+# Code4rena 
 
 | Contest | High risk | Medium risk | Security report  | Payout  | Rank |
 |:--:|:--:|:--:|:--:|:--:|:--:|
@@ -27,8 +27,13 @@ I write articles, some about web3 development, some about security, and some for
 | [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | - | 1 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/report.md) | 3,092.32 USDC |  Top 3 |
 | [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | 1 | 0 | report | 179.45 USDC | - |
 | [NextGen](https://code4rena.com/audits/2023-10-nextgen#top) | 3 | 4 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-10-nextgen/report.md) | 6,215.77 USDC | 1st |
-| [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | Loading... | Loading... | report | Loading... | Loading... |
-| [reNFT](https://code4rena.com/audits/2024-01-renft) | Loading... | Loading... | report | Loading... | Loading... |
+| [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | Loading... | Loading... | report | 4104.36 USDC | 6th |
+
+# Cantina
+
+| Contest | High risk | Medium risk | Security report | Payout | Rank |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Superform](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f) | 1 | - | report | 294.36 USDC | - |
 
 
 # Sherlock
