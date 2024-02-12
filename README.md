@@ -12,7 +12,7 @@ I write articles, some about web3 development, some about security, and some for
 
 | Overall | High risk |  Medium risk |
 |:--:|:--:|:--:|
-| 48 High/Medium | 26 High | 22 Medium | 
+| 54 High/Medium | 26 High | 28 Medium | 
 
 
 # Code4rena 
@@ -27,7 +27,7 @@ I write articles, some about web3 development, some about security, and some for
 | [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | - | 1 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/report.md) | 3,092.32 USDC |  Top 3 |
 | [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | 1 | 0 | report | 179.45 USDC | - |
 | [NextGen](https://code4rena.com/audits/2023-10-nextgen#top) | 3 | 4 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-10-nextgen/report.md) | 6,215.77 USDC | 1st |
-| [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | Loading... | Loading... | report | 4104.36 USDC | 6th |
+| [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | - | 6 | report | 4104.36 USDC | 6th |
 
 # Cantina
 
