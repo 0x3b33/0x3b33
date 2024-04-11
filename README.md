@@ -35,8 +35,8 @@ Found 100+ bugs in competative and team audits.
 # Team
 | Team | Project | Critical | High | Medium | Report | 
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| Guardian | Isekai | 18 | 18 | 33 | loading... |
-
+| Guardian | Isekai | - | - | - | loading... |
+| Guardian | Synthetix BFP | - | - | - | loading... |
 ---
 
 - [Twitter](https://twitter.com/0x3b338)
