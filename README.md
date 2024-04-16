@@ -1,17 +1,4 @@
-# I am 0x3b, a smart contract security researcher.
-
-My journey began in February 2022, and since then, I have actively participated in various contests on platforms such as Code4rena, Sherlock, CodeHawks, and Cantina. Securing multiple top 5 positions, I even achieved first place in one of them. My primary objective is to excel in the web3 security space.
-
-### Professional Experience
-- I have audited lending protocols, DAOs, perpetuals, AMMs, liquidity management vaults, and various Uniswap v3 integrations.
-
-### Personal Projects
-I write articles, some about web3 development, some about security, and some for optimizing your mind, you can check them out [here](https://code4rena.com/@0x3b).
-
-# Summary
-
-Found 100+ bugs in competative and team audits.
-
+I do audits 
 
 # Contests 
 
@@ -31,12 +18,13 @@ Found 100+ bugs in competative and team audits.
 | Cantina | [Superform](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f) | 1 | - | report | 294.36 USDC | - |
 | C4 | [NextGen](https://code4rena.com/audits/2023-10-nextgen#top) | 3 | 4 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-10-nextgen/report.md) | 6,215.77 USDC | 1st |
 | C4 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | - | 6 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-12-ecg/report.md) | 4104.36 USDC | 6th |
+| C4 | [Salty](https://code4rena.com/audits/2024-01-saltyio#top) | - | - | report | 448.05 USDC | - |
 
 # Team
 | Team | Project | Critical | High | Medium | Report | 
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| Guardian | Isekai | - | - | - | loading... |
-| Guardian | Synthetix BFP | - | - | - | loading... |
+| Guardian | Isekai | 18 | 18 | 31 | private |
+
 ---
 
 - [Twitter](https://twitter.com/0x3b338)
