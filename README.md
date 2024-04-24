@@ -3,7 +3,7 @@ I do audits
 # Contests 
 
 | Platform | Project | High | Medium | Report  | Rank | Info | 
-|:--:|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Sherlock | [Symmetrical](https://audits.sherlock.xyz/contests/85)| 1 | 2 | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-symmetrical/report.md) | - | Bonds | 
 | Sherlock | [Bond Options](https://audits.sherlock.xyz/contests/99) | 1 | - | [report](https://github.com/0x3b33/portfolio/blob/master/sherlock/2023-06-bond/report.md) | - | Lending + rewards |
 | Sherlock | [TokenSoft](https://audits.sherlock.xyz/contests/100) | 1 | 1 | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokensoft/report.md) | - | Staking optimizer | 
@@ -23,7 +23,7 @@ I do audits
 
 # Team
 | Team | Project | Critical | High | Medium | Report | Info |
-|:--:|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Guardian | Isekai | 18 | 18 | 31 | private | OHM fork + bridge|
 
 ---
