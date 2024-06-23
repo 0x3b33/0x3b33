@@ -5,6 +5,8 @@ I do audits
 |:--|:--|:--|:--|:--|:--|:--|
 | Guardian | Isekai | OHM fork + bridge| 18 | 18 | 31 | private |
 | Guardian | Synthetix | Perp | 9 | 6 | 22 | private |
+| Guardian | GMX | Perp | 3 | 9 | 9 | [report](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_1.pdf) |
+| Guardian | GMX | Perp | 2 | 1 | 7 | [report](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_2.pdf) |
 
 # Contests 
 
