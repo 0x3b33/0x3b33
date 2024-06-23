@@ -5,6 +5,8 @@ I do audits
 |:--|:--|:--|:--|:--|:--|:--|
 | Guardian | Isekai | OHM fork + bridge| 18 | 18 | 31 | private |
 | Guardian | Synthetix | Perp | 9 | 6 | 22 | private |
+| Guardian | GMX | Perp | 3 | 9 | 9 | [report](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_1.pdf) |
+| Guardian | GMX | Perp | 2 | 1 | 7 | [report](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_2.pdf) |
 
 # Contests 
 
@@ -26,11 +28,10 @@ I do audits
 | C4 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | Auctions | - | 6 | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-12-ecg/report.md) | - |
 | C4 | [Salty](https://code4rena.com/audits/2024-01-saltyio#top) | custom AMM | - | - | loading... | - |
 | Cantina | Wormhole | Bridge | - | 1 | private | top 5 | 
-| Cantina | [Blast](https://cantina.xyz/competitions/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0) | Bridge && OP stack | 1 | 3 | loading... | - | 
+| Cantina | [Blast](https://cantina.xyz/competitions/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0) | Bridge + OP stack | 1 | 3 | loading... | - | 
 | Sherlock | [Teller Finance](https://audits.sherlock.xyz/contests/295) | Lending |  8 | 4 | loading... | - |
 
 ---
 
 - [Twitter](https://twitter.com/0x3b338)
 - [Articles](https://mirror.xyz/0x3b338e782859aE11c0B15694bc482a9aFa4A5809)
-- [C4 profile](https://code4rena.com/@0x3b)
