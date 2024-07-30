@@ -35,3 +35,4 @@ I do audits
 
 - [Twitter](https://x.com/0x3b33)
 - [Articles](https://mirror.xyz/0x3b338e782859aE11c0B15694bc482a9aFa4A5809)
+- [C4 profile](https://code4rena.com/@0x3b)
