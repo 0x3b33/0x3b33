@@ -6,7 +6,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 
 | Total Vulnerabilities Found | Critical | High | Medium |
 |:--|:--|:--|:--|
-| Over 200 | 32 | 72 | 114  |
+| Over 200 | 32 | 73 | 121  |
 
 # Team
 | № | Date | Team | Project |  Type | Vulnerabilities | Report |
@@ -41,6 +41,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 20 | 06.2024 | Hats | [Intuition](https://app.hats.finance/audit-competitions/intuition-0x538dbadc50cc87b281cd655f1edbc6ebda02a66a/leaderboard) | AA wallet |  1L | private | Top 3 |
 | 21 | 06.2024 | Hats | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/leaderboard) | Token framework |  1M, 1L | private | Top 10 |
 | 22 | 07.2024 | CodeHawks | [Temple](https://codehawks.cyfrin.io/c/clxyjvjkg0007isl3p290etog) | Airdrops | 1H, 2M | [report](https://codehawks.cyfrin.io/c/clxyjvjkg0007isl3p290etog/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) | Top 3 |
+| 23 | 07.2024 | Sherlock | [Allora](https://audits.sherlock.xyz/contests/454) | AI chain | 1H, 7M | report | Top 5 |
 ---
 
 - [Twitter](https://x.com/0x3b33)
