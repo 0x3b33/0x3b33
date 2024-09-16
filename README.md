@@ -1,12 +1,14 @@
 I do audits
 
+---
+
 If you are looking for an audit or a security review and want a reliable partner, you can reach out on [Telegram](https://t.me/Pyro_0x3b).
 
 Still unsure? Feel free to contact me anyway. I am here to help, and if I can’t assist you directly, I can at least recommend someone who can.
 
 | Total Vulnerabilities Found | Critical | High | Medium |
 |:--|:--|:--|:--|
-| Over 200 | 32 | 76 | 121  |
+| Over 200 | 32 | 83 | 128  |
 
 # Team
 | № | Date | Team | Project |  Type | Vulnerabilities | Report |
@@ -41,8 +43,12 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 20 | 06.2024 | Hats | [Intuition](https://app.hats.finance/audit-competitions/intuition-0x538dbadc50cc87b281cd655f1edbc6ebda02a66a/leaderboard) | AA wallet |  1L | private | Top 3 |
 | 21 | 06.2024 | Hats | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/leaderboard) | Token framework |  1M, 1L | private | Top 10 |
 | 22 | 07.2024 | CodeHawks | [Temple](https://codehawks.cyfrin.io/c/clxyjvjkg0007isl3p290etog) | Airdrops | 1H, 2M | [report](https://codehawks.cyfrin.io/c/clxyjvjkg0007isl3p290etog/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) | Top 3 |
-| 23 | 07.2024 | C4 | [Munchables](https://code4rena.com/audits/2024-07-munchables#top) | NFT game | 3H | report | - |
-| 24 | 07.2024 | Sherlock | [Allora](https://audits.sherlock.xyz/contests/454) | AI chain | 1H, 7M | report | Top 5 |
+| 23 | 07.2024 | C4 | [Munchables](https://code4rena.com/audits/2024-07-munchables#top) | NFT game | 3H | [report](https://code4rena.com/reports/2024-07-munchables) | - |
+| 24 | 07.2024 | Sherlock | [Allora](https://audits.sherlock.xyz/contests/454) | AI chain | 1H, 7M | [report](https://audits.sherlock.xyz/contests/454/report) | Top 5 |
+| 25 | 08.2024 | CodeHawks | [Temple Mitigation](https://codehawks.cyfrin.io/c/clxyjvjkg0007isl3p290etog) | Airdrops | 2H | private | Top 5 |
+| 26 | 07.2024 | C4 | [Trait Forge](https://code4rena.com/audits/2024-07-traitforge) | NFT game | 4H 7M | [report](https://code4rena.com/reports/2024-07-traitforge) | - |
+| 27 | 08.2024 | CodeHawks | [Fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | Staking | 1H | [report](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=report) | Top 10 |
+
 ---
 
 - [Twitter](https://x.com/0x3b33)
