@@ -11,8 +11,8 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | Over 200 | 32 | 83 | 128  |
 
 # Private 
-| № | Date | Team | Project |  Type | Vulnerabilities | Report |
-|:--|:--|:--|:--|:--|:--|:--|
+| № | Date  | Project |  Type | Vulnerabilities | Report |
+|:--|:--|:--|:--|:--|:--|
 | 1 | 09.2024 | [AutoGains](https://x.com/auto_gains) | 4626 trading perps | 3H, 6M | [report]()
 
 
