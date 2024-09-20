@@ -13,7 +13,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 # Private 
 | № | Date  | Project |  Type | Vulnerabilities | Report |
 |:--|:--|:--|:--|:--|:--|
-| 1 | 09.2024 | [AutoGains](https://x.com/auto_gains) | 4626 trading perps | 3H, 6M | [report]()
+| 1 | 09.2024 | [AutoGains](https://x.com/auto_gains) | 4626 trading perps | 3H, 6M | [report](https://github.com/0x3b33/reports/blob/master/Autogains.pdf)
 
 
 # Team
