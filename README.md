@@ -8,12 +8,13 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 
 | Total Vulnerabilities Found | Critical | High | Medium |
 |:--|:--|:--|:--|
-| Over 250 | 34 | 95 | 146  |
+| Over 250 | 36 | 96 | 148  |
 
 # Private 
 | № | Date  | Project |  Type | Vulnerabilities | Report | Language |
 |:--|:--|:--|:--|:--|:--|:--|
 | 1 | 09.2024 | [AutoGains](https://x.com/auto_gains) | 4626 trading perps | 3H, 6M | [report](https://github.com/0x3b33/reports/blob/master/Autogains.pdf) | Solidity |
+| 2 | 10.2024 | [Vyper](https://www.vyper.win/) | Staking | 2C, 1H, 2M | [report](https://github.com/0x3b33/reports/blob/master/Vyper.pdf) | Solidity |
 
 
 # Team
@@ -56,7 +57,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 22 | 07.2024 | CodeHawks | [Temple](https://codehawks.cyfrin.io/c/clxyjvjkg0007isl3p290etog) | Airdrops | 1H, 2M | [report](https://codehawks.cyfrin.io/c/clxyjvjkg0007isl3p290etog/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) | Solidity | Top 3 |
 | 23 | 07.2024 | C4 | [Munchables](https://code4rena.com/audits/2024-07-munchables#top) | NFT game | 3H | [report](https://code4rena.com/reports/2024-07-munchables) | Solidity | - |
 | 24 | 07.2024 | Sherlock | [Allora](https://audits.sherlock.xyz/contests/454) | AI chain | 1H, 7M | [report](https://audits.sherlock.xyz/contests/454/report) | Go | Top 5 |
-| 25 | 07.2024 | C4 | [Trait Forge](https://code4rena.com/audits/2024-07-traitforge) | NFT game | 4H 7M | [report](https://code4rena.com/reports/2024-07-traitforge) | Solidity | - |
+| 25 | 07.2024 | C4 | [Trait Forge](https://code4rena.com/audits/2024-07-traitforge) | NFT game | 4H, 7M | [report](https://code4rena.com/reports/2024-07-traitforge) | Solidity | - |
 | 26 | 08.2024 | CodeHawks | [Temple Mitigation](https://codehawks.cyfrin.io/c/clxyjvjkg0007isl3p290etog) | Airdrops | 2H | private | Solidity | Top 5 |
 | 27 | 08.2024 | CodeHawks | [Fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | Staking | 1H | [report](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=report) | Solidity | Top 10 |
 | 28 | 08.2024 | Sherlock | [Sentiment](https://audits.sherlock.xyz/contests/349) | Lending | 4M | [report](https://audits.sherlock.xyz/contests/349/report) | Solidity | - |
