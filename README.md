@@ -2,7 +2,7 @@ I do audits
 
 ---
 
-If you are looking for an audit or a security review and want a reliable partner, you can reach out on [Telegram](https://t.me/Pyro_0x3b).
+If you are looking for an audit or a security review and want a reliable partner, you can reach out on [Telegram](https://t.me/Pyro3b).
 
 Still unsure? Feel free to contact me anyway. I am here to help, and if I can’t assist you directly, I can at least recommend someone who can.
 
