@@ -8,7 +8,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 
 | Total Vulnerabilities Found | Critical | High | Medium |
 |:--|:--|:--|:--|
-| Over 250 | 36 | 96 | 148  |
+| Over 250 | 36 | 98 | 149  |
 
 # Private 
 | № | Date  | Project |  Type | Vulnerabilities | Report | Language |
@@ -21,12 +21,12 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | № | Date | Team | Project |  Type | Vulnerabilities | Report | Language |
 |:--|:--|:--|:--|:--|:--|:--|:--|
 | 1 | 03.2024 | [Guardian](https://guardianaudits.com/) | Isekai | OHM fork + bridge| 18C, 18H, 31M | private | Solidity |
-| 2 | 04.2024 | [Guardian](https://guardianaudits.com/) | Synthetix | Perp | 9C, 6H, 22M | private | Solidity |
+| 2 | 04.2024 | [Guardian](https://guardianaudits.com/) | Synthetix | Perp | 9C, 6H, 22M | [report](https://github.com/GuardianAudits/Audits/blob/main/Synthetix/2024-04-18_Synthetix_BFP_Market.pdf) | Solidity |
 | 3 | 05.2024 | [Guardian](https://guardianaudits.com/) | GMX | Perp | 3C, 9H, 9M | [report](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_1.pdf) | Solidity |
 | 4 | 05.2024 | [Guardian](https://guardianaudits.com/) | GMX | Perp | 2C, 1H, 7M | [report](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_2.pdf) | Solidity |
-| 5 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Bitflow | UNIv2 fork | 2H, 2M | [report](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow.pdf) | Clarity |
-| 6 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Hermetica | Ethena fork | 1C, 1H, 5M | [report](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Hermetica.pdf) | Clarity |
-| 7 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Asigna | NFT bridge | 1C, 3H, 2M | private | Clarity |
+| 5 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Bitflow | UNIv2 fork | 2H, 2M | [report](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow.pdf) | Clarity (Stax) |
+| 6 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Hermetica | Ethena fork | 1C, 1H, 5M | [report](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Hermetica.pdf) | Clarity (Stax) |
+| 7 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Asigna | NFT bridge | 1C, 3H, 2M | private | Clarity (Stax) |
 
 
 
@@ -48,7 +48,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 13 | 11.2023 | C4 | [NextGen](https://code4rena.com/audits/2023-10-nextgen#top) | NFT launch pad | 3H, 4M | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-10-nextgen/report.md) | Solidity | 1st |
 | 14 | 12.2023 | C4 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | Auctions | 6M | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-12-ecg/report.md) | Solidity | Top 10 |
 | 15 | 01.2024 | C4 | [Salty](https://code4rena.com/audits/2024-01-saltyio#top) | custom AMM | 2H, 4M | [report](https://code4rena.com/reports/2024-01-salty) | Solidity | - |
-| 16 | 02.2024 | Cantina | [Blast](https://cantina.xyz/competitions/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0) | Bridge + OP stack | 1H, 3M | private | Go | - | 
+| 16 | 02.2024 | Cantina | [Blast](https://cantina.xyz/competitions/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0) | Bridge + OP stack | 1H, 3M | private | Go (OP stack) | - | 
 | 17 | 04.2024 | Cantina | Wormhole | Bridge |  1M | private | Solidity | Top 5 | 
 | 18 | 05.2024 | Sherlock | [Teller Finance](https://audits.sherlock.xyz/contests/295) | Lending |  8H, 4M | [report](https://audits.sherlock.xyz/contests/295/report) | Solidity | Top 10 |
 | 19 | 06.2024 | Sherlock | [Mellow](https://audits.sherlock.xyz/contests/423) | LST vault | 2M | [report](https://audits.sherlock.xyz/contests/423/report) | Solidity | Top 5 |
@@ -56,13 +56,14 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 21 | 06.2024 | Hats | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/leaderboard) | Token framework |  1M, 1L | private | Solidity | Top 10 |
 | 22 | 07.2024 | CodeHawks | [Temple](https://codehawks.cyfrin.io/c/clxyjvjkg0007isl3p290etog) | Airdrops | 1H, 2M | [report](https://codehawks.cyfrin.io/c/clxyjvjkg0007isl3p290etog/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) | Solidity | Top 3 |
 | 23 | 07.2024 | C4 | [Munchables](https://code4rena.com/audits/2024-07-munchables#top) | NFT game | 3H | [report](https://code4rena.com/reports/2024-07-munchables) | Solidity | - |
-| 24 | 07.2024 | Sherlock | [Allora](https://audits.sherlock.xyz/contests/454) | AI chain | 1H, 7M | [report](https://audits.sherlock.xyz/contests/454/report) | Go | Top 5 |
+| 24 | 07.2024 | Sherlock | [Allora](https://audits.sherlock.xyz/contests/454) | AI chain | 1H, 7M | [report](https://audits.sherlock.xyz/contests/454/report) | Go (Cosmos) | Top 5 |
 | 25 | 07.2024 | C4 | [Trait Forge](https://code4rena.com/audits/2024-07-traitforge) | NFT game | 4H, 7M | [report](https://code4rena.com/reports/2024-07-traitforge) | Solidity | - |
 | 26 | 08.2024 | CodeHawks | [Temple Mitigation](https://codehawks.cyfrin.io/c/clxyjvjkg0007isl3p290etog) | Airdrops | 2H | private | Solidity | Top 5 |
 | 27 | 08.2024 | CodeHawks | [Fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | Staking | 1H | [report](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=report) | Solidity | Top 10 |
 | 28 | 08.2024 | Sherlock | [Sentiment](https://audits.sherlock.xyz/contests/349) | Lending | 4M | [report](https://audits.sherlock.xyz/contests/349/report) | Solidity | - |
-| 29 | 09.2024 | Cantina | [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602) | TX marketplace | 6H, 5M | [report](https://audits.sherlock.xyz/contests/349/report) | Solidity | 2nd |
-
+| 29 | 09.2024 | Cantina | [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602) | TX marketplace | 6H, 5M | private | Solidity | 2nd |
+| 30 | 09.2024 | Cantina | [Redstone](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd) | Oracle | 1H, 1M | private | sway (Fuel) | Top 10 |
+| 31 | 11.2024 | Sherlock | [vVv Launchpad](https://audits.sherlock.xyz/contests/647?filter=questions) | Token launchpad | 1H | [report](https://audits.sherlock.xyz/contests/647/report) | solidity | 1st |
 
 ---
 
