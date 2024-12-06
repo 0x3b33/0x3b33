@@ -8,7 +8,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 
 | Total Vulnerabilities Found | Critical | High | Medium |
 |:--|:--|:--|:--|
-| Over 250 | 36 | 98 | 156  |
+| Over 300 | 36 | 104 | 166  |
 
 # Private 
 | № | Date  | Project |  Type | Vulnerabilities | Report | Language |
@@ -28,6 +28,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 6 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Hermetica | Ethena fork | 1C, 1H, 5M | [report](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Hermetica.pdf) | Clarity (Stax) |
 | 7 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Asigna | NFT bridge | 1C, 3H, 2M | private | Clarity (Stax) |
 | 8 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 7M | private | Solidity |
+| 9 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 6H, 10M | private | Solana |
 
 
 
