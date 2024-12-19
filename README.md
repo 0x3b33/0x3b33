@@ -66,6 +66,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 29 | 09.2024 | Cantina | [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602) | TX marketplace | 6H, 5M | private | Solidity | 2nd |
 | 30 | 09.2024 | Cantina | [Redstone](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd) | Oracle | 1H, 1M | private | sway (Fuel) | Top 10 |
 | 31 | 11.2024 | Sherlock | [vVv Launchpad](https://audits.sherlock.xyz/contests/647?filter=questions) | Token launchpad | 1H | [report](https://audits.sherlock.xyz/contests/647/report) | solidity | 1st |
+| 32 | 12.2024 | Sherlock | [Nouns DAO](https://audits.sherlock.xyz/contests/688?filter=questions) | DAO and streams | - | [report](https://audits.sherlock.xyz/contests/688/report) | solidity | Top 5 |
 
 ---
 
