@@ -8,13 +8,14 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 
 | Total Vulnerabilities Found | Critical | High | Medium |
 |:--|:--|:--|:--|
-| Over 300 | 36 | 104 | 166  |
+| Over 300 | 36 | 104 | 168  |
 
 # Private 
 | № | Date  | Project |  Type | Vulnerabilities | Report | Language |
 |:--|:--|:--|:--|:--|:--|:--|
 | 1 | 09.2024 | [AutoGains](https://x.com/auto_gains) | 4626 trading perps | 3H, 6M | [report](https://github.com/0x3b33/reports/blob/master/Autogains.pdf) | Solidity |
 | 2 | 10.2024 | [Vyper](https://www.vyper.win/) | Staking | 2C, 1H, 2M | [report](https://github.com/0x3b33/reports/blob/master/Vyper.pdf) | Solidity |
+| 3 | 12.2024 | [Stax](https://docs.helios-hlx.win/stax) | Staking | 3M | report| Solidity |
 
 
 # Team
