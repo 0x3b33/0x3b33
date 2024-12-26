@@ -8,7 +8,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 
 | Total Vulnerabilities Found | Critical | High | Medium |
 |:--|:--|:--|:--|
-| Over 300 | 36 | 104 | 168  |
+| Over 300 | 36 | 108 | 170  |
 
 # Private 
 | № | Date  | Project |  Type | Vulnerabilities | Report | Language |
@@ -68,6 +68,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 30 | 09.2024 | Cantina | [Redstone](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd) | Oracle | 1H, 1M | private | sway (Fuel) | Top 10 |
 | 31 | 11.2024 | Sherlock | [vVv Launchpad](https://audits.sherlock.xyz/contests/647?filter=questions) | Token launchpad | 1H | [report](https://audits.sherlock.xyz/contests/647/report) | solidity | 1st |
 | 32 | 12.2024 | Sherlock | [Nouns DAO](https://audits.sherlock.xyz/contests/688?filter=questions) | DAO and streams | - | [report](https://audits.sherlock.xyz/contests/688/report) | solidity | Top 5 |
+| 33 | 12.2024 | Sherlock | [Ethos Network](https://audits.sherlock.xyz/contests/675?filter=questions) | DAO and streams | 4H, 2M | [report](https://audits.sherlock.xyz/contests/675/report) | solidity | 1st |
 
 ---
 
