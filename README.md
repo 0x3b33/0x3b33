@@ -8,14 +8,16 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 
 | Total Vulnerabilities Found | Critical | High | Medium |
 |:--|:--|:--|:--|
-| Over 300 | 36 | 108 | 170  |
+| Over 300 | 38 | 111 | 189  |
 
 # Private 
 | № | Date  | Project |  Type | Vulnerabilities | Report | Language |
 |:--|:--|:--|:--|:--|:--|:--|
 | 1 | 09.2024 | [AutoGains](https://x.com/auto_gains) | 4626 trading perps | 3H, 6M | [report](https://github.com/0x3b33/reports/blob/master/Autogains.pdf) | Solidity |
 | 2 | 10.2024 | [Vyper](https://www.vyper.win/) | Staking | 2C, 1H, 2M | [report](https://github.com/0x3b33/reports/blob/master/Vyper.pdf) | Solidity |
-| 3 | 12.2024 | [Stax](https://docs.helios-hlx.win/stax) | Staking | 3M | report| Solidity |
+| 3 | 12.2024 | [Stax](https://docs.helios-hlx.win/stax) | Staking | 3M | [report](https://github.com/0x3b33/reports/blob/master/Stax.pdf) | Solidity |
+| 4 | 01.2025 | [Flare](https://www.flare.win/) | Staking | 3M | [report](https://github.com/0x3b33/reports/blob/master/Flare.pdf) | Solidity |
+| 5 | 01.2025 | [DFDX](https://dragonx.win/) | Staking | 2M | [report](https://github.com/0x3b33/reports/blob/master/DFDX.pdf) | Solidity |
 
 
 # Team
@@ -30,6 +32,8 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 7 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Asigna | NFT bridge | 1C, 3H, 2M | private | Clarity (Stax) |
 | 8 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 7M | private | Solidity |
 | 9 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 6H, 10M | private | Solana |
+| 10 | 12.2024 | [Guardian](https://guardianaudits.com/) | Yuga | LZ read | 2C, 3H, 13M | private | Solidity |
+| 11 | 01.2025 | [Guardian](https://guardianaudits.com/) | USDT0 | USDT + LZ | - | private | Solidity |
 
 
 
@@ -64,11 +68,12 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 26 | 08.2024 | CodeHawks | [Temple Mitigation](https://codehawks.cyfrin.io/c/clxyjvjkg0007isl3p290etog) | Airdrops | 2H | private | Solidity | Top 5 |
 | 27 | 08.2024 | CodeHawks | [Fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | Staking | 1H | [report](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=report) | Solidity | Top 10 |
 | 28 | 08.2024 | Sherlock | [Sentiment](https://audits.sherlock.xyz/contests/349) | Lending | 4M | [report](https://audits.sherlock.xyz/contests/349/report) | Solidity | - |
-| 29 | 09.2024 | Cantina | [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602) | TX marketplace | 6H, 5M | private | Solidity | 2nd |
+| 29 | 09.2024 | Cantina | [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602) | TX marketplace | 6H, 5M | private | Solidity | Top 3 |
 | 30 | 09.2024 | Cantina | [Redstone](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd) | Oracle | 1H, 1M | private | sway (Fuel) | Top 10 |
 | 31 | 11.2024 | Sherlock | [vVv Launchpad](https://audits.sherlock.xyz/contests/647?filter=questions) | Token launchpad | 1H | [report](https://audits.sherlock.xyz/contests/647/report) | solidity | 1st |
 | 32 | 12.2024 | Sherlock | [Nouns DAO](https://audits.sherlock.xyz/contests/688?filter=questions) | DAO and streams | - | [report](https://audits.sherlock.xyz/contests/688/report) | solidity | Top 5 |
-| 33 | 12.2024 | Sherlock | [Ethos Network](https://audits.sherlock.xyz/contests/675?filter=questions) | DAO and streams | 4H, 2M | [report](https://audits.sherlock.xyz/contests/675/report) | solidity | 1st |
+| 33 | 12.2024 | Sherlock | [Ethos Network](https://audits.sherlock.xyz/contests/675?filter=questions) | Voting | 4H, 2M | [report](https://audits.sherlock.xyz/contests/675/report) | solidity | 1st |
+| 34 | 12.2024 | Sherlock | [Ethos Update](https://audits.sherlock.xyz/contests/735?filter=results) | Voting | 1M | [report](https://audits.sherlock.xyz/contests/735/report) | solidity | Top 3 |
 
 ---
 
