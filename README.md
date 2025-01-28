@@ -33,7 +33,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 8 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 7M | private | Solidity |
 | 9 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 6H, 10M | private | Solana |
 | 10 | 12.2024 | [Guardian](https://guardianaudits.com/) | Yuga | LZ read | 2C, 3H, 13M | private | Solidity |
-| 11 | 01.2025 | [Guardian](https://guardianaudits.com/) | USDT0 | USDT + LZ | - | private | Solidity |
+| 11 | 01.2025 | [Guardian](https://guardianaudits.com/) | USDT0 | USDT + LZ | - | [report](https://github.com/Everdawn-Labs/usdt0-audit-reports/blob/main/Guardian/USDT0_Arbitrum_Upgrade.pdf) | Solidity |
 
 
 
