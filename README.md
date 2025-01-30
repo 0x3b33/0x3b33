@@ -8,7 +8,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 
 | Total Vulnerabilities Found | Critical | High | Medium |
 |:--|:--|:--|:--|
-| Over 300 | 38 | 111 | 189  |
+| Over 300 | 38 | 111 | 188  |
 
 # Private 
 | № | Date  | Project |  Type | Vulnerabilities | Report | Language |
@@ -17,7 +17,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 2 | 10.2024 | [Vyper](https://www.vyper.win/) | Staking | 2C, 1H, 2M | [report](https://github.com/0x3b33/reports/blob/master/Vyper.pdf) | Solidity |
 | 3 | 12.2024 | [Stax](https://docs.helios-hlx.win/stax) | Staking | 3M | [report](https://github.com/0x3b33/reports/blob/master/Stax.pdf) | Solidity |
 | 4 | 01.2025 | [Flare](https://www.flare.win/) | Staking + UNI math | 3M | report | Solidity |
-| 5 | 01.2025 | [DFDX](https://dragonx.win/) | UNI v3 && v2 math | 2M | [report](https://github.com/0x3b33/reports/blob/master/DFDX.pdf) | Solidity |
+| 5 | 01.2025 | [DFDX](https://dragonx.win/) | UNI v3 && v2 math | 1M | [report](https://github.com/0x3b33/reports/blob/master/DFDX.pdf) | Solidity |
 
 
 # Team
@@ -27,9 +27,9 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 2 | 04.2024 | [Guardian](https://guardianaudits.com/) | Synthetix | Perp | 9C, 6H, 22M | [report](https://github.com/GuardianAudits/Audits/blob/main/Synthetix/2024-04-18_Synthetix_BFP_Market.pdf) | Solidity |
 | 3 | 05.2024 | [Guardian](https://guardianaudits.com/) | GMX | Perp | 3C, 9H, 9M | [report](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_1.pdf) | Solidity |
 | 4 | 05.2024 | [Guardian](https://guardianaudits.com/) | GMX | Perp | 2C, 1H, 7M | [report](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_2.pdf) | Solidity |
-| 5 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Bitflow | UNIv2 fork | 2H, 2M | [report](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow.pdf) | Clarity (Stax) |
-| 6 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Hermetica | Ethena fork | 1C, 1H, 5M | [report](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Hermetica.pdf) | Clarity (Stax) |
-| 7 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Asigna | NFT bridge | 1C, 3H, 2M | private | Clarity (Stax) |
+| 5 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Bitflow | UNIv2 fork | 2H, 2M | [report](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow.pdf) | Clarity (Stacks) |
+| 6 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Hermetica | Ethena fork | 1C, 1H, 5M | [report](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Hermetica.pdf) | Clarity (Stacks) |
+| 7 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Asigna | NFT bridge | 1C, 3H, 2M | private | Clarity (Stacks) |
 | 8 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 7M | private | Solidity |
 | 9 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 6H, 10M | private | Solana |
 | 10 | 12.2024 | [Guardian](https://guardianaudits.com/) | Yuga | LZ read | 2C, 3H, 13M | private | Solidity |
