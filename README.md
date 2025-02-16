@@ -42,18 +42,18 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
 | 1 | 07.2023 | Sherlock | [Symmetrical](https://audits.sherlock.xyz/contests/85)| Bonds |  1H, 2M | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-symmetrical/report.md) | Solidity | - |
 | 2 | 07.2023 | Sherlock | [TokenSoft](https://audits.sherlock.xyz/contests/100) | Staking optimizer | 1H, 1M | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokensoft/report.md) | Solidity | - |
-| 3 | 07.2023 | C4 | [Lybra Finance](https://code4rena.com/contests/2023-06-lybra-finance#top) | Stablecoin minter | 1H, 6M | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-06-lybra/report.md) | Solidity | Top 5 |
+| 3 | 07.2023 | C4 | [Lybra](https://code4rena.com/contests/2023-06-lybra-finance#top) | Stablecoin minter | 1H, 6M | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-06-lybra/report.md) | Solidity | Top 5 |
 | 4 | 08.2023 | Sherlock | [Bond Options](https://audits.sherlock.xyz/contests/99) | Lending | 1H | [report](https://github.com/0x3b33/portfolio/blob/master/sherlock/2023-06-bond/report.md) | Solidity | - |
 | 5 | 08.2023 | CodeHawks | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | Lending | 7H, 3M | [report](https://github.com/0x3b33/portfolio/blob/master/codeHawks/2023-07-beedles/report.md) | Solidity | Top 5 |
-| 6 | 08.2023 | C4 | [Amphora Protocol](https://code4rena.com/contests/2023-07-amphora-protocol#top) | Staking | 1H | private | Solidity | - |
+| 6 | 08.2023 | C4 | [Amphora](https://code4rena.com/contests/2023-07-amphora-protocol#top) | Staking | 1H | private | Solidity | - |
 | 7 | 09.2023 | C4 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) |  Staking | 2H | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-07-arcade/report.md)| Solidity |  Top 5 |
-| 8 | 09.2023 | C4 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | Staking | 5H, 3M | private | Solidity | - |
+| 8 | 09.2023 | C4 | [Tangible](https://code4rena.com/contests/2023-08-tangible-caviar#top) | Staking | 5H, 3M | private | Solidity | - |
 | 9 | 09.2023 | C4 | [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | Staking optimizer | 2H, 2M | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-08-dopex/report.md) | Solidity | - |
 | 10 | 10.2023 | C4 | [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | Lending | 1M | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/report.md) | Solidity |  Top 3 |
 | 11 | 10.2023 | C4 | [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | Staking |1H | private | Solidity | - |
 | 12 | 11.2023 | Cantina | [Superform](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f) | Bridge | 1H | private | Solidity | - |
 | 13 | 11.2023 | C4 | [NextGen](https://code4rena.com/audits/2023-10-nextgen#top) | NFT launch pad | 3H, 4M | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-10-nextgen/report.md) | Solidity | 1st |
-| 14 | 12.2023 | C4 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | Auctions | 6M | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-12-ecg/report.md) | Solidity | Top 10 |
+| 14 | 12.2023 | C4 | [ECG](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | Auctions | 6M | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-12-ecg/report.md) | Solidity | Top 10 |
 | 15 | 01.2024 | C4 | [Salty](https://code4rena.com/audits/2024-01-saltyio#top) | custom AMM | 2H, 4M | [report](https://code4rena.com/reports/2024-01-salty) | Solidity | - |
 | 16 | 02.2024 | Cantina | [Blast](https://cantina.xyz/competitions/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0) | Bridge + OP stack | 1H, 3M | private | Go (OP stack) | - | 
 | 17 | 04.2024 | Cantina | Wormhole | Bridge |  1M | private | Solidity | Top 5 | 
@@ -65,12 +65,12 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 23 | 07.2024 | C4 | [Munchables](https://code4rena.com/audits/2024-07-munchables#top) | NFT game | 3H | [report](https://code4rena.com/reports/2024-07-munchables) | Solidity | - |
 | 24 | 07.2024 | Sherlock | [Allora](https://audits.sherlock.xyz/contests/454) | AI chain | 1H, 7M | [report](https://audits.sherlock.xyz/contests/454/report) | Go (Cosmos) | Top 5 |
 | 25 | 07.2024 | C4 | [Trait Forge](https://code4rena.com/audits/2024-07-traitforge) | NFT game | 4H, 7M | [report](https://code4rena.com/reports/2024-07-traitforge) | Solidity | - |
-| 26 | 08.2024 | CodeHawks | [Temple Mitigation](https://codehawks.cyfrin.io/c/clxyjvjkg0007isl3p290etog) | Airdrops | 2H | private | Solidity | Top 5 |
+| 26 | 08.2024 | CodeHawks | [Temple](https://codehawks.cyfrin.io/c/clxyjvjkg0007isl3p290etog) | Airdrops | 2H | private | Solidity | Top 5 |
 | 27 | 08.2024 | CodeHawks | [Fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | Staking | 1H | [report](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=report) | Solidity | Top 10 |
 | 28 | 08.2024 | Sherlock | [Sentiment](https://audits.sherlock.xyz/contests/349) | Lending | 4M | [report](https://audits.sherlock.xyz/contests/349/report) | Solidity | - |
 | 29 | 09.2024 | Cantina | [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602) | TX marketplace | 6H, 5M | private | Solidity | Top 3 |
 | 30 | 09.2024 | Cantina | [Redstone](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd) | Oracle | 1H, 1M | private | sway (Fuel) | Top 10 |
-| 31 | 11.2024 | Sherlock | [vVv Launchpad](https://audits.sherlock.xyz/contests/647?filter=questions) | Token launchpad | 1H | [report](https://audits.sherlock.xyz/contests/647/report) | solidity | 1st |
+| 31 | 11.2024 | Sherlock | [vVv](https://audits.sherlock.xyz/contests/647?filter=questions) | Token launchpad | 1H | [report](https://audits.sherlock.xyz/contests/647/report) | solidity | 1st |
 | 32 | 12.2024 | Sherlock | [Nouns DAO](https://audits.sherlock.xyz/contests/688?filter=questions) | DAO and streams | - | [report](https://audits.sherlock.xyz/contests/688/report) | solidity | Top 5 |
 | 33 | 12.2024 | Sherlock | [Ethos Network](https://audits.sherlock.xyz/contests/675?filter=questions) | Voting | 4H, 2M | [report](https://audits.sherlock.xyz/contests/675/report) | solidity | 1st |
 | 34 | 12.2024 | Sherlock | [Ethos Update](https://audits.sherlock.xyz/contests/735?filter=results) | Voting | 1M | [report](https://audits.sherlock.xyz/contests/735/report) | solidity | Top 3 |
