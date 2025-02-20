@@ -31,7 +31,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 6 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Hermetica | Ethena fork | 1C, 1H, 5M | [report](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Hermetica.pdf) | Clarity (Stacks) |
 | 7 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Asigna | NFT bridge | 1C, 3H, 2M | private | Clarity (Stacks) |
 | 8 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 7M | private | Solidity |
-| 9 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 6H, 10M | private | Solana |
+| 9 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 6H, 10M | private | Rust (Solana) |
 | 10 | 12.2024 | [Guardian](https://guardianaudits.com/) | Yuga | LZ read | 2C, 3H, 13M | private | Solidity |
 | 11 | 01.2025 | [Guardian](https://guardianaudits.com/) | USDT0 | USDT + LZ | - | [report](https://github.com/Everdawn-Labs/usdt0-audit-reports/blob/main/Guardian/USDT0_Arbitrum_Upgrade.pdf) | Solidity |
 
@@ -69,10 +69,10 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 27 | 08.2024 | CodeHawks | [Fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | Staking | 1H | [report](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=report) | Solidity | Top 10 |
 | 28 | 08.2024 | Sherlock | [Sentiment](https://audits.sherlock.xyz/contests/349) | Lending | 4M | [report](https://audits.sherlock.xyz/contests/349/report) | Solidity | - |
 | 29 | 09.2024 | Cantina | [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602) | TX marketplace | 6H, 5M | private | Solidity | Top 3 |
-| 30 | 09.2024 | Cantina | [Redstone](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd) | Oracle | 1H, 1M | private | sway (Fuel) | Top 10 |
-| 31 | 11.2024 | Sherlock | [vVv](https://audits.sherlock.xyz/contests/647?filter=questions) | Token launchpad | 1H | [report](https://audits.sherlock.xyz/contests/647/report) | solidity | 1st |
-| 32 | 12.2024 | Sherlock | [Nouns DAO](https://audits.sherlock.xyz/contests/688?filter=questions) | DAO and streams | - | [report](https://audits.sherlock.xyz/contests/688/report) | solidity | Top 5 |
-| 33 | 12.2024 | Sherlock | [Ethos Network](https://audits.sherlock.xyz/contests/675?filter=questions) | Voting | 4H, 2M | [report](https://audits.sherlock.xyz/contests/675/report) | solidity | 1st |
+| 30 | 09.2024 | Cantina | [Redstone](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd) | Oracle | 1H, 1M | private | Sway (Fuel) | Top 10 |
+| 31 | 11.2024 | Sherlock | [vVv](https://audits.sherlock.xyz/contests/647?filter=questions) | Token launchpad | 1H | [report](https://audits.sherlock.xyz/contests/647/report) | Solidity | 1st |
+| 32 | 12.2024 | Sherlock | [Nouns DAO](https://audits.sherlock.xyz/contests/688?filter=questions) | DAO and streams | - | [report](https://audits.sherlock.xyz/contests/688/report) | Solidity | Top 5 |
+| 33 | 12.2024 | Sherlock | [Ethos Network](https://audits.sherlock.xyz/contests/675?filter=questions) | Voting | 4H, 2M | [report](https://audits.sherlock.xyz/contests/675/report) | Solidity | 1st |
 | 34 | 12.2024 | Sherlock | [Ethos Update](https://audits.sherlock.xyz/contests/735?filter=results) | Voting | 1M | [report](https://audits.sherlock.xyz/contests/735/report) | solidity | Top 3 |
 
 ---
