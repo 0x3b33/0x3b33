@@ -8,7 +8,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 
 | Total Vulnerabilities Found | Critical | High | Medium |
 |:--|:--|:--|:--|
-| Over 300 | 38 | 111 | 188  |
+| Over 300 | 38 | 115 | 188  |
 
 # Private 
 | № | Date  | Project |  Type | Vulnerabilities | Report | Language |
@@ -74,6 +74,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 32 | 12.2024 | Sherlock | [Nouns DAO](https://audits.sherlock.xyz/contests/688?filter=questions) | DAO and streams | - | [report](https://audits.sherlock.xyz/contests/688/report) | Solidity | Top 5 |
 | 33 | 12.2024 | Sherlock | [Ethos Network](https://audits.sherlock.xyz/contests/675?filter=questions) | Voting | 4H, 2M | [report](https://audits.sherlock.xyz/contests/675/report) | Solidity | 1st |
 | 34 | 12.2024 | Sherlock | [Ethos Update](https://audits.sherlock.xyz/contests/735?filter=results) | Voting | 1M | [report](https://audits.sherlock.xyz/contests/735/report) | solidity | Top 3 |
+| 35 | 02.2025 | Sherlock | [Allora](https://audits.sherlock.xyz/contests/728) | AI chain | 4H | [report](https://audits.sherlock.xyz/contests/728/report) | go | Top 10 |
 
 ---
 
