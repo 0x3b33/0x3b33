@@ -18,6 +18,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 3 | 12.2024 | [Stax](https://docs.helios-hlx.win/stax) | Staking | 3M | [report](https://github.com/0x3b33/reports/blob/master/Stax.pdf) | Solidity |
 | 4 | 01.2025 | [Flare](https://www.flare.win/) | Staking + UNI math | 3M | report | Solidity |
 | 5 | 01.2025 | [DFDX](https://dragonx.win/) | UNI v3 && v2 math | 1M | [report](https://github.com/0x3b33/reports/blob/master/DFDX.pdf) | Solidity |
+| 6 | 03.2025 | [Origami ibgt vaults](https://origami.finance/) | IBGT restaking | - | [report](https://github.com/0x3b33/reports/blob/master/Origami.pdf) | Solidity |
 
 
 # Team
