@@ -1,5 +1,7 @@
 I do audits
 
+Lead Security Researcher and Top 25 all time at [Sherlock](https://audits.sherlock.xyz/leaderboards) (under X77).
+
 ---
 
 If you are looking for an audit or a security review and want a reliable partner, you can reach out on [Telegram](https://t.me/Pyro3b).
@@ -8,7 +10,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 
 | Total Vulnerabilities Found | Critical | High | Medium |
 |:--|:--|:--|:--|
-| Over 300 | 38 | 115 | 188  |
+| Over 350 | 38 | 119 | 207  |
 
 # Private 
 | № | Date  | Project |  Type | Vulnerabilities | Report | Language |
@@ -18,7 +20,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 3 | 12.2024 | [Stax](https://docs.helios-hlx.win/stax) | Staking | 3M | [report](https://github.com/0x3b33/reports/blob/master/Stax.pdf) | Solidity |
 | 4 | 01.2025 | [Flare](https://www.flare.win/) | Staking + UNI math | 3M | report | Solidity |
 | 5 | 01.2025 | [DFDX](https://dragonx.win/) | UNI v3 && v2 math | 1M | [report](https://github.com/0x3b33/reports/blob/master/DFDX.pdf) | Solidity |
-| 6 | 03.2025 | [Origami ibgt vaults](https://origami.finance/) | IBGT restaking | - | [report](https://github.com/0x3b33/reports/blob/master/Origami.pdf) | Solidity |
+| 6 | 03.2025 | [Origami ibgt vaults](https://origami.finance/) | Berachain, restaking | - | [report](https://github.com/0x3b33/reports/blob/master/Origami.pdf) | Solidity |
 
 
 # Team
@@ -74,8 +76,9 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 31 | 11.2024 | Sherlock | [vVv](https://audits.sherlock.xyz/contests/647?filter=questions) | Token launchpad | 1H | [report](https://audits.sherlock.xyz/contests/647/report) | Solidity | 1st |
 | 32 | 12.2024 | Sherlock | [Nouns DAO](https://audits.sherlock.xyz/contests/688?filter=questions) | DAO and streams | - | [report](https://audits.sherlock.xyz/contests/688/report) | Solidity | Top 5 |
 | 33 | 12.2024 | Sherlock | [Ethos Network](https://audits.sherlock.xyz/contests/675?filter=questions) | Voting | 4H, 2M | [report](https://audits.sherlock.xyz/contests/675/report) | Solidity | 1st |
-| 34 | 12.2024 | Sherlock | [Ethos Update](https://audits.sherlock.xyz/contests/735?filter=results) | Voting | 1M | [report](https://audits.sherlock.xyz/contests/735/report) | solidity | Top 3 |
-| 35 | 02.2025 | Sherlock | [Allora](https://audits.sherlock.xyz/contests/728) | AI chain | 4H | [report](https://audits.sherlock.xyz/contests/728/report) | go | Top 10 |
+| 34 | 12.2024 | Sherlock | [Ethos Update](https://audits.sherlock.xyz/contests/735?filter=results) | Voting | 1M | [report](https://audits.sherlock.xyz/contests/735/report) | Solidity | Top 3 |
+| 35 | 02.2025 | Sherlock | [Allora](https://audits.sherlock.xyz/contests/728) | AI chain | 4H | [report](https://audits.sherlock.xyz/contests/728/report) | go (Cosmos) | Top 10 |
+| 36 | 03.2025 | Sherlock | [Peapods](https://audits.sherlock.xyz/contests/749) | Index token | 4H, 19M | [report](https://audits.sherlock.xyz/contests/748/report) | Solidity | Top 3 |
 
 ---
 
