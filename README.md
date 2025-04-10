@@ -1,6 +1,6 @@
 I do audits
 
-Lead Security Researcher and Top 25 all time at [Sherlock](https://audits.sherlock.xyz/leaderboards) (under X77).
+Lead Security Researcher and Top 25 at [Sherlock](https://audits.sherlock.xyz/leaderboards) (under X77).
 
 ---
 
