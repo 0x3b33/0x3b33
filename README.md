@@ -1,12 +1,16 @@
 I do audits
 
-Lead Security Researcher and Top 25 at [Sherlock](https://audits.sherlock.xyz/leaderboards) (under X77).
+Lead Security Researcher and Top 25 all time at [Sherlock](https://audits.sherlock.xyz/leaderboards) (under X77).
+Over 350 H/M found
+Prev. at [Guardian Audits](https://guardianaudits.com/)
 
+Request an audit at https://t.me/Pyro3b
 ---
 
-If you are looking for an audit or a security review and want a reliable partner, you can reach out on [Telegram](https://t.me/Pyro3b).
+- [Twitter](https://x.com/0x3b33)
+- [Articles](https://mirror.xyz/0x3b338e782859aE11c0B15694bc482a9aFa4A5809)
 
-Still unsure? Feel free to contact me anyway. I am here to help, and if I can’t assist you directly, I can at least recommend someone who can.
+---
 
 | Total Vulnerabilities Found | Critical | High | Medium |
 |:--|:--|:--|:--|
@@ -33,7 +37,7 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 5 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Bitflow | UNIv2 fork | 2H, 2M | [report](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow.pdf) | Clarity (Stacks) |
 | 6 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Hermetica | Ethena fork | 1C, 1H, 5M | [report](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Hermetica.pdf) | Clarity (Stacks) |
 | 7 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Asigna | NFT bridge | 1C, 3H, 2M | private | Clarity (Stacks) |
-| 8 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 7M | private | Solidity |
+| 8 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 7M | [report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2024.11.28%20-%20Final%20-%20Wasabi%20Audit%20Report.pdf) | Solidity |
 | 9 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 6H, 10M | private | Rust (Solana) |
 | 10 | 12.2024 | [Guardian](https://guardianaudits.com/) | Yuga | LZ read | 2C, 3H, 13M | private | Solidity |
 | 11 | 01.2025 | [Guardian](https://guardianaudits.com/) | USDT0 | USDT + LZ | - | [report](https://github.com/Everdawn-Labs/usdt0-audit-reports/blob/main/Guardian/USDT0_Arbitrum_Upgrade.pdf) | Solidity |
@@ -79,8 +83,3 @@ Still unsure? Feel free to contact me anyway. I am here to help, and if I can’
 | 34 | 12.2024 | Sherlock | [Ethos Update](https://audits.sherlock.xyz/contests/735?filter=results) | Voting | 1M | [report](https://audits.sherlock.xyz/contests/735/report) | Solidity | Top 3 |
 | 35 | 02.2025 | Sherlock | [Allora](https://audits.sherlock.xyz/contests/728) | AI chain | 4H | [report](https://audits.sherlock.xyz/contests/728/report) | go (Cosmos) | Top 10 |
 | 36 | 03.2025 | Sherlock | [Peapods](https://audits.sherlock.xyz/contests/749) | Index token | 4H, 19M | [report](https://audits.sherlock.xyz/contests/748/report) | Solidity | Top 3 |
-
----
-
-- [Twitter](https://x.com/0x3b33)
-- [Articles](https://mirror.xyz/0x3b338e782859aE11c0B15694bc482a9aFa4A5809)
