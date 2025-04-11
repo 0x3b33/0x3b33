@@ -49,7 +49,7 @@ Request an audit at https://t.me/Pyro3b
 
 # Contests 
 | № | Date | Project | Type | Vulnerabilities | Report  | Language | Rank |
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:--|:--|:--|:--|:--|:--|:--|:--|
 | 1 | 07.2023 | [Symmetrical](https://audits.sherlock.xyz/contests/85)| Bonds |  1H, 2M | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-symmetrical/report.md) | Solidity | - |
 | 2 | 07.2023 | [TokenSoft](https://audits.sherlock.xyz/contests/100) | Staking optimizer | 1H, 1M | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokensoft/report.md) | Solidity | - |
 | 3 | 07.2023 | [Lybra](https://code4rena.com/contests/2023-06-lybra-finance#top) | Stablecoin minter | 1H, 6M | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-06-lybra/report.md) | Solidity | Top 5 |
