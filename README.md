@@ -53,13 +53,13 @@ Request an audit at https://t.me/Pyro3b
 | 1 | 07.2023 | [Symmetrical](https://audits.sherlock.xyz/contests/85)| Bonds |  1H, 2M | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-symmetrical/report.md) | Solidity | - |
 | 2 | 07.2023 | [TokenSoft](https://audits.sherlock.xyz/contests/100) | Staking optimizer | 1H, 1M | [report](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokensoft/report.md) | Solidity | - |
 | 3 | 07.2023 | [Lybra](https://code4rena.com/contests/2023-06-lybra-finance#top) | Stablecoin minter | 1H, 6M | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-06-lybra/report.md) | Solidity | Top 5 |
-| 4 | 08.2023 |  [Bond Options](https://audits.sherlock.xyz/contests/99) | Lending | 1H | [report](https://github.com/0x3b33/portfolio/blob/master/sherlock/2023-06-bond/report.md) | Solidity | - |
+| 4 | 08.2023 | [Bond Options](https://audits.sherlock.xyz/contests/99) | Lending | 1H | [report](https://github.com/0x3b33/portfolio/blob/master/sherlock/2023-06-bond/report.md) | Solidity | - |
 | 5 | 08.2023 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | Lending | 7H, 3M | [report](https://github.com/0x3b33/portfolio/blob/master/codeHawks/2023-07-beedles/report.md) | Solidity | Top 5 |
 | 6 | 08.2023 | [Amphora](https://code4rena.com/contests/2023-07-amphora-protocol#top) | Staking | 1H | private | Solidity | - |
 | 7 | 09.2023 | [Arcade.xyz](https://code4rena.com/contests/2023-07-arcadexyz#top) |  Staking | 2H | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-07-arcade/report.md)| Solidity |  Top 5 |
 | 8 | 09.2023 | [Tangible](https://code4rena.com/contests/2023-08-tangible-caviar#top) | Staking | 5H, 3M | private | Solidity | - |
 | 9 | 09.2023 | [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | Staking optimizer | 2H, 2M | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-08-dopex/report.md) | Solidity | - |
-| 10 | 10.2023 | [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | Lending | 1M | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/report.md) | Solidity |  Top 3 |
+| 10 | 10.2023 | [Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top) | Lending | 1M | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-09-centrifuge/report.md) | Solidity |  Top3 |
 | 11 | 10.2023 | [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | Staking |1H | private | Solidity | - |
 | 12 | 11.2023 | [Superform](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f) | Bridge | 1H | private | Solidity | - |
 | 13 | 11.2023 | [NextGen](https://code4rena.com/audits/2023-10-nextgen#top) | NFT launch pad | 3H, 4M | [report](https://github.com/0x3b33/portfolio/blob/master/c4/2023-10-nextgen/report.md) | Solidity | 1st |
@@ -77,12 +77,12 @@ Request an audit at https://t.me/Pyro3b
 | 25 | 07.2024 | [Trait Forge](https://code4rena.com/audits/2024-07-traitforge) | NFT game | 4H, 7M | [report](https://code4rena.com/reports/2024-07-traitforge) | Solidity | - |
 | 26 | 08.2024 | [Temple](https://codehawks.cyfrin.io/c/clxyjvjkg0007isl3p290etog) | Airdrops | 2H | private | Solidity | Top 5 |
 | 27 | 08.2024 | [Fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | Staking | 1H | [report](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=report) | Solidity | Top 10 |
-| 28 | 08.2024 |  [Sentiment](https://audits.sherlock.xyz/contests/349) | Lending | 4M | [report](https://audits.sherlock.xyz/contests/349/report) | Solidity | - |
+| 28 | 08.2024 | [Sentiment](https://audits.sherlock.xyz/contests/349) | Lending | 4M | [report](https://audits.sherlock.xyz/contests/349/report) | Solidity | - |
 | 29 | 09.2024 | [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602) | TX marketplace | 6H, 5M | private | Solidity | Top 3 |
 | 30 | 09.2024 | [Redstone](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd) | Oracle | 1H, 1M | private | Sway (Fuel) | Top 10 |
 | 31 | 11.2024 | [vVv](https://audits.sherlock.xyz/contests/647?filter=questions) | Token launchpad | 1H | [report](https://audits.sherlock.xyz/contests/647/report) | Solidity | 1st |
 | 32 | 12.2024 | [Nouns DAO](https://audits.sherlock.xyz/contests/688?filter=questions) | DAO and streams | - | [report](https://audits.sherlock.xyz/contests/688/report) | Solidity | Top 5 |
 | 33 | 12.2024 | [Ethos Network](https://audits.sherlock.xyz/contests/675?filter=questions) | Voting | 4H, 2M | [report](https://audits.sherlock.xyz/contests/675/report) | Solidity | 1st |
-| 34 | 12.2024 | [Ethos Update](https://audits.sherlock.xyz/contests/735?filter=results) | Voting | 1M | [report](https://audits.sherlock.xyz/contests/735/report) | Solidity | Top 3 |
+| 34 | 12.2024 | [Ethos Update](https://audits.sherlock.xyz/contests/735?filter=results) | Voting | 1M | [report](https://audits.sherlock.xyz/contests/735/report) | Solidity | 2nd |
 | 35 | 02.2025 | [Allora](https://audits.sherlock.xyz/contests/728) | AI chain | 4H | [report](https://audits.sherlock.xyz/contests/728/report) | go (Cosmos) | Top 10 |
-| 36 | 03.2025 | [Peapods](https://audits.sherlock.xyz/contests/749) | Index token | 4H, 19M | [report](https://audits.sherlock.xyz/contests/748/report) | Solidity | Top 3 |
+| 36 | 03.2025 | [Peapods](https://audits.sherlock.xyz/contests/749) | Index token | 4H, 19M | [report](https://audits.sherlock.xyz/contests/748/report) | Solidity | 2nd |
