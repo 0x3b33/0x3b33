@@ -43,7 +43,7 @@ Request an audit at https://t.me/Pyro3b
 | 10 | 12.2024 | [Guardian](https://guardianaudits.com/) | Yuga | LZ read | 2C, 3H, 13M | - | Solidity |
 | 11 | 01.2025 | [Guardian](https://guardianaudits.com/) | USDT0 | USDT + LZ | - | [📑](https://github.com/Everdawn-Labs/usdt0-audit-reports/blob/main/Guardian/USDT0_Arbitrum_Upgrade.pdf) | Solidity |
 | 12 | 03.2025 | [Bail Security](https://bailsec.io/) | Inception | LST vault | 7H, 16M | - | Solidity |
-
+| 13 | 04.2025 | [Pashov Audit Group](https://www.pashov.net/) | Zipper | Bridge | 10L | - | Solidity |
 
 
 # Contests 
