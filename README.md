@@ -24,8 +24,9 @@ Request an audit at https://t.me/Pyro3b
 | 4 | 01.2025 | [Flare](https://www.flare.win/) | Staking + UNI math | 3M | 📑 | Solidity |
 | 5 | 01.2025 | [DFDX](https://dragonx.win/) | UNI v3 && v2 math | 1M | [📑](https://github.com/0x3b33/reports/blob/master/DFDX.pdf) | Solidity |
 | 6 | 03.2025 | [Origami ibgt vaults](https://origami.finance/) | Berachain, restaking | - | [📑](https://github.com/0x3b33/reports/blob/master/Origami.pdf) | Solidity |
-| 7 | 04.2025 | [DAOS.FUN](https://www.daos.fun/) | pump linear curve | 2M | - | Solana |
-| 8 | 03.2025 | private | Stable coin | 1H, 3M | [📑](https://github.com/0x3b33/reports/blob/master/Pareto.pdf) | Solidity |
+| 7 | 03.2025 | [Origami Euler vaults](https://origami.finance/) | Euler, staking | - | - | Solidity |
+| 8 | 04.2025 | [DAOS.FUN](https://www.daos.fun/) | pump linear curve | 2M | - | Solana |
+| 9 | 03.2025 | [USP](https://pareto.credit/) | Stable coin | 1H, 3M | [📑](https://github.com/0x3b33/reports/blob/master/USP.pdf) | Solidity |
 
 
 # Team
@@ -43,7 +44,8 @@ Request an audit at https://t.me/Pyro3b
 | 10 | 12.2024 | [Guardian](https://guardianaudits.com/) | Yuga | LZ read | 2C, 3H, 13M | - | Solidity |
 | 11 | 01.2025 | [Guardian](https://guardianaudits.com/) | USDT0 | USDT + LZ | - | [📑](https://github.com/Everdawn-Labs/usdt0-audit-reports/blob/main/Guardian/USDT0_Arbitrum_Upgrade.pdf) | Solidity |
 | 12 | 03.2025 | [Bail Security](https://bailsec.io/) | Inception | LST vault | 7H, 16M | - | Solidity |
-| 13 | 04.2025 | [Pashov Audit Group](https://www.pashov.net/) | Zipper | Bridge | 10L | - | Solidity |
+| 13 | 04.2025 | [Pashov Audit Group](https://www.pashov.net/) | Zipper | Bridge | - | - | Solidity |
+| 14 | 04.2025 | [TsukiProof](https://tsukiproof.com/) | KittenSwap | Escrow | - | - | Solidity |
 
 
 # Contests 
