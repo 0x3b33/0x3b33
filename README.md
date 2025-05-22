@@ -87,3 +87,4 @@ Request an audit at https://t.me/Pyro3b
 | 34 | 12.2024 | [Ethos Update](https://audits.sherlock.xyz/contests/735?filter=results) | Voting | 1M | [📑](https://audits.sherlock.xyz/contests/735/report) | Solidity | 2nd |
 | 35 | 02.2025 | [Allora](https://audits.sherlock.xyz/contests/728) | AI chain | 4H | [📑](https://audits.sherlock.xyz/contests/728/report) | go (Cosmos) | Top 10 |
 | 36 | 03.2025 | [Peapods](https://audits.sherlock.xyz/contests/749) | Index token | 4H, 19M | [📑](https://audits.sherlock.xyz/contests/748/report) | Solidity | 2nd |
+| 37 | 04.2025 | [Wormhole](https://audits.sherlock.xyz/contests/845) | Governance bridge | - | - | Solana | - |
