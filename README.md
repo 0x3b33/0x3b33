@@ -6,9 +6,12 @@ Over 400 H/M bugs found.
 
 Worked with [Guardian Audits](https://guardianaudits.com/), [Bail Security](https://bailsec.io/) and [Pashov Audit Group](https://www.pashov.net/)
 
-Request an audit at https://t.me/Pyro3b
 
 - X (Twitter) at  https://x.com/home
+
+---
+
+Request an audit at https://t.me/Pyro3b
 
 ---
 
