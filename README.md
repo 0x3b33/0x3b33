@@ -1,22 +1,19 @@
 I do audits
 
-Lead Security Researcher and Top 25 all time at [Sherlock](https://audits.sherlock.xyz/leaderboards) (under X77)
+Lead Security Researcher at [Sherlock](https://audits.sherlock.xyz/leaderboards) (under X77)
 
-Over 350 H/M found
+Over 400 H/M bugs found.
 
-Previously at [Guardian Audits](https://guardianaudits.com/)
+Worked with [Guardian Audits](https://guardianaudits.com/), [Bail Security](https://bailsec.io/) and [Pashov Audit Group](https://www.pashov.net/)
 
 Request an audit at https://t.me/Pyro3b
 
----
-
-- [Twitter](https://x.com/0x3b33)
-- [Articles](https://mirror.xyz/0x3b338e782859aE11c0B15694bc482a9aFa4A5809)
+- X (Twitter) at  https://x.com/home
 
 ---
 
 # Private 
-| № | Date  | Project |  Type | Vulnerabilities | Report | Language |
+| № | Date  | Project |  Category | Vulnerabilities | Report | Language |
 |:--|:--|:--|:--|:--|:--|:--|
 | 1 | 09.2024 | [AutoGains](https://x.com/auto_gains) | 4626 trading perps | 3H, 6M | [📑](https://github.com/0x3b33/reports/blob/master/Autogains.pdf) | Solidity |
 | 2 | 10.2024 | [Vyper](https://www.vyper.win/) | Staking | 2C, 1H, 2M | [📑](https://github.com/0x3b33/reports/blob/master/Vyper.pdf) | Solidity |
@@ -30,7 +27,7 @@ Request an audit at https://t.me/Pyro3b
 
 
 # Team
-| № | Date | Team | Project |  Type | Vulnerabilities | Report | Language |
+| № | Date | Provider | Project |  Category | Vulnerabilities | Report | Language |
 |:--|:--|:--|:--|:--|:--|:--|:--|
 | 1 | 03.2024 | [Guardian](https://guardianaudits.com/) | Isekai | OHM fork + bridge| 18C, 18H, 31M | - | Solidity |
 | 2 | 04.2024 | [Guardian](https://guardianaudits.com/) | Synthetix | Perp | 9C, 6H, 22M | [📑](https://github.com/GuardianAudits/Audits/blob/main/Synthetix/2024-04-18_Synthetix_BFP_Market.pdf) | Solidity |
@@ -46,10 +43,12 @@ Request an audit at https://t.me/Pyro3b
 | 12 | 03.2025 | [Bail Security](https://bailsec.io/) | Inception | LST vault | 7H, 16M | - | Solidity |
 | 13 | 04.2025 | [Pashov Audit Group](https://www.pashov.net/) | Zipper | Bridge | - | - | Solidity |
 | 14 | 04.2025 | [TsukiProof](https://tsukiproof.com/) | KittenSwap | Escrow | - | - | Solidity |
+| 15 | 05.2025 | [Pashov Audit Group](https://www.pashov.net/) | Gacha | Lottary, VRF | - | - | Solidity |
+| 16 | 05.2025 | [Sherlock](https://audits.sherlock.xyz) | Embr | Bonding Curve, AMM | 10H, 18M | - | Solidity |
 
 
 # Contests 
-| № | Date | Project | Type | Vulnerabilities | Report  | Language | Rank |
+| № | Date | Project | Category | Vulnerabilities | Report  | Language | Rank |
 |:--|:--|:--|:--|:--|:--|:--|:--|
 | 1 | 07.2023 | [Symmetrical](https://audits.sherlock.xyz/contests/85)| Bonds |  1H, 2M | [📑](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-symmetrical/report.md) | Solidity | - |
 | 2 | 07.2023 | [TokenSoft](https://audits.sherlock.xyz/contests/100) | Staking optimizer | 1H, 1M | [📑](https://github.com/0x3b33/portfolio/tree/master/sherlock/2023-06-tokensoft/report.md) | Solidity | - |
@@ -88,3 +87,5 @@ Request an audit at https://t.me/Pyro3b
 | 35 | 02.2025 | [Allora](https://audits.sherlock.xyz/contests/728) | AI chain | 4H | [📑](https://audits.sherlock.xyz/contests/728/report) | go (Cosmos) | Top 10 |
 | 36 | 03.2025 | [Peapods](https://audits.sherlock.xyz/contests/749) | Index token | 4H, 19M | [📑](https://audits.sherlock.xyz/contests/748/report) | Solidity | 2nd |
 | 37 | 04.2025 | [Wormhole](https://audits.sherlock.xyz/contests/845) | Governance bridge | - | - | Solana | - |
+| 38 | 05.2025 | [LayerEdge](https://audits.sherlock.xyz/contests/952) | Fenwick Tree | 2H, 1M | [📑](https://audits.sherlock.xyz/contests/952/report) | Solidity | 1st |
+| 39 | 05.2025 | [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac) | Staking | 17H, 16M | [📑](https://codehawks.cyfrin.io/c/2025-02-raac/results?lt=contest&page=1&sc=reward&sj=reward&t=report) | Solidity | Top 10 |
