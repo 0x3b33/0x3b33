@@ -26,7 +26,7 @@ Request an audit at https://t.me/Pyro3b
 | 6 | 03.2025 | [Origami ibgt vaults](https://origami.finance/) | Berachain, restaking | - | [📑](https://github.com/0x3b33/reports/blob/master/Origami.pdf) | Solidity |
 | 7 | 03.2025 | [Origami Euler vaults](https://origami.finance/) | Euler, staking | - | - | Solidity |
 | 8 | 04.2025 | [DAOS.FUN](https://www.daos.fun/) | pump linear curve | 2M | - | Solana |
-| 9 | 03.2025 | [USP](https://pareto.credit/) | Stable coin | 1H, 3M | [📑](https://github.com/0x3b33/reports/blob/master/USP.pdf) | Solidity |
+| 9 | 05.2025 | [USP](https://pareto.credit/) | Stable coin | 1H, 3M | [📑](https://github.com/0x3b33/reports/blob/master/USP.pdf) | Solidity |
 
 
 # Team
@@ -48,6 +48,8 @@ Request an audit at https://t.me/Pyro3b
 | 14 | 04.2025 | [TsukiProof](https://tsukiproof.com/) | KittenSwap | Escrow | - | - | Solidity |
 | 15 | 05.2025 | [Pashov Audit Group](https://www.pashov.net/) | Gacha | Lottary, VRF | - | - | Solidity |
 | 16 | 05.2025 | [Sherlock](https://audits.sherlock.xyz) | Embr | Bonding Curve, AMM | 10H, 18M | - | Solidity |
+| 17 | 06.2025 | [Sherlock](https://audits.sherlock.xyz) | Football-Fun | AMM for 1155 NFTs | 5H, 7M | - | Solidity |
+| 18 | 07.2025 | [Guardian](https://guardianaudits.com/) | Universal | Vault | 2M | - | Solidity |
 
 
 # Contests 
