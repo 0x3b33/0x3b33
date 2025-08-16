@@ -50,6 +50,8 @@ Request an audit at https://t.me/Pyro3b
 | 16 | 05.2025 | [Sherlock](https://audits.sherlock.xyz) | Embr | Bonding Curve, AMM | 10H, 18M | - | Solidity |
 | 17 | 06.2025 | [Sherlock](https://audits.sherlock.xyz) | Football-Fun | AMM for 1155 NFTs | 5H, 7M | - | Solidity |
 | 18 | 07.2025 | [Guardian](https://guardianaudits.com/) | Universal | Vault | 2M | - | Solidity |
+| 19 | 08.2025 | [Sherlock](https://audits.sherlock.xyz) | Superlend | 4626 looping | 1H, 10M | - | Solidity |
+| 20 | 08.2025 | [Sherlock](https://audits.sherlock.xyz) | Superlend | 4626 looping | 2M | - | Solidity |
 
 
 # Contests 
