@@ -50,10 +50,16 @@ Request an audit at https://t.me/Pyro3b
 | 16 | 05.2025 | [Sherlock](https://audits.sherlock.xyz) | Embr | Bonding Curve, AMM | 10H, 18M | - | Solidity |
 | 17 | 06.2025 | [Sherlock](https://audits.sherlock.xyz) | Football-Fun | AMM for 1155 NFTs | 5H, 7M | - | Solidity |
 | 18 | 07.2025 | [Guardian](https://guardianaudits.com/) | Universal | Vault | 2M | - | Solidity |
-| 19 | 08.2025 | [Sherlock](https://audits.sherlock.xyz) | Superlend | 4626 looping | 1H, 10M | - | Solidity |
-| 20 | 08.2025 | [Sherlock](https://audits.sherlock.xyz) | Superlend | 4626 looping | 2M | - | Solidity |
-| 21 | 08.2025 | [Sherlock](https://audits.sherlock.xyz) | Football-Fun | AMM for 1155 NFTs | - | - | Solidity |
-| 22 | 08.2025 | [Sherlock](https://audits.sherlock.xyz) | Molecula | index token | 1H, 6M | - | Solidity |
+| 19 | 07.2025 | [Phage Security](https://phagesecurity.com/) | [Hikari](https://x.com/hikari_finance) | UNIv3 positions | 3H, 5M | private | Solidity |
+| 20 | 08.2025 | [Sherlock](https://audits.sherlock.xyz) | Superlend | looping vault | 1H, 10M | - | Solidity |
+| 21 | 08.2025 | [Sherlock](https://audits.sherlock.xyz) | Superlend | looping vault | 2M | - | Solidity |
+| 22 | 08.2025 | [Sherlock](https://audits.sherlock.xyz) | Football-Fun | AMM for 1155 NFTs | - | - | Solidity |
+| 23 | 08.2025 | [Sherlock](https://audits.sherlock.xyz) | Molecula | index token | 1H, 6M | - | Solidity |
+| 24 | 08.2025 | [Phage Security](https://phagesecurity.com/) | [Foresight](https://x.com/foresightnow) | prediction market | 3H, 2M | [📑](https://github.com/phage-security/audits/blob/main/2025-08-foresight.pdf) | Solidity |
+| 25 | 08.2025 | [Phage Security](https://phagesecurity.com/) | [Bounce Tech](https://x.com/BounceDotTech) | leveraged token on Hype | 4H, 7M | [📑](https://github.com/phage-security/audits/blob/main/2025-08-Bounce.pdf) | Solidity |
+| 26 | 08.2025 | [Phage Security](https://phagesecurity.com/) | [PinLink](https://pinlink.ai/) | ERC-1155 marketplace | - | [📑](https://github.com/phage-security/audits/blob/main/2025-08-pinlink.pdf) | Solidity |
+| 27 | 09.2025 | [Phage Security](https://phagesecurity.com/) | [Robin](https://x.com/robinmarketsxyz) | PM yield generator | 2H | [📑](https://github.com/phage-security/audits/blob/main/2025-09-robin.pdf) | Solidity |
+| 28 | 08.2025 | [Sherlock](https://audits.sherlock.xyz) | Superlend | looping vault | - | - | Solidity |
 
 
 # Contests 
