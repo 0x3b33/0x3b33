@@ -62,6 +62,9 @@ Request an audit at https://t.me/Pyro3b
 | 28 | 09.2025 | [Sherlock](https://audits.sherlock.xyz) | Superlend | looping vault | - | - | Solidity |
 | 29 | 10.2025 | [Sherlock](https://audits.sherlock.xyz) | Livo | Launchpad | 2M | - | Solidity |
 | 30 | 10.2025 | [Phage Security](https://phagesecurity.com/) | [Legend.trade](https://x.com/robinmarketsxyz) | megaETH GTE integration| 2M | [📑](https://github.com/phage-security/audits/blob/main/2025-10-legend.pdf) | Solidity |
+| 31 | 10.2025 | [Sherlock](https://audits.sherlock.xyz) | Football-Fun | AMM for 1155 NFTs |1 M | - | Solidity |
+| 32 | 11.2025 | [Sherlock](https://audits.sherlock.xyz) | Pred | Prediction Market | 3H, 4 M | - | Solidity |
+| 33 | 11.2025 | [Phage Security](https://phagesecurity.com/) | [RugRumble](https://x.com/RugRumble) | Lottary | - | [📑](https://github.com/phage-security/audits/blob/main/2025-11-ror.pdf) | Solidity |
 
 
 # Contests 
