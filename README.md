@@ -7,7 +7,7 @@ Over 400 H/M bugs found.
 Worked with [Guardian Audits](https://guardianaudits.com/), [Bail Security](https://bailsec.io/) and [Pashov Audit Group](https://www.pashov.net/)
 
 
-- X (Twitter) at  https://x.com/home
+- X (Twitter) at https://x.com/0x3b33
 
 ---
 
@@ -55,16 +55,16 @@ Request an audit at https://t.me/Pyro3b
 | 21 | 08.2025 | [Sherlock](https://audits.sherlock.xyz) | Superlend | looping vault | 2M | - | Solidity |
 | 22 | 08.2025 | [Sherlock](https://audits.sherlock.xyz) | Football-Fun | AMM for 1155 NFTs | - | - | Solidity |
 | 23 | 08.2025 | [Sherlock](https://audits.sherlock.xyz) | Molecula | index token | 1H, 6M | - | Solidity |
-| 24 | 08.2025 | [Phage Security](https://phagesecurity.com/) | [Foresight](https://x.com/foresightnow) | prediction market | 3H, 2M | [📑](https://github.com/phage-security/audits/blob/main/2025-08-foresight.pdf) | Solidity |
+| 24 | 08.2025 | [Phage Security](https://phagesecurity.com/) | [Foresight](https://x.com/foresightnow) | prediction market, LMSR AMM | 3H, 2M | [📑](https://github.com/phage-security/audits/blob/main/2025-08-foresight.pdf) | Solidity |
 | 25 | 08.2025 | [Phage Security](https://phagesecurity.com/) | [Bounce Tech](https://x.com/BounceDotTech) | leveraged token on Hype | 4H, 7M | [📑](https://github.com/phage-security/audits/blob/main/2025-08-Bounce.pdf) | Solidity |
 | 26 | 08.2025 | [Phage Security](https://phagesecurity.com/) | [PinLink](https://pinlink.ai/) | ERC-1155 marketplace | - | [📑](https://github.com/phage-security/audits/blob/main/2025-08-pinlink.pdf) | Solidity |
-| 27 | 09.2025 | [Phage Security](https://phagesecurity.com/) | [Robin](https://x.com/robinmarketsxyz) | PM yield generator | 2H | [📑](https://github.com/phage-security/audits/blob/main/2025-09-robin.pdf) | Solidity |
-| 28 | 09.2025 | [Sherlock](https://audits.sherlock.xyz) | Superlend | looping vault | - | - | Solidity |
+| 27 | 09.2025 | [Phage Security](https://phagesecurity.com/) | [Robin](https://x.com/robinmarketsxyz) | PM yield generator, AAVE | 2H | [📑](https://github.com/phage-security/audits/blob/main/2025-09-robin.pdf) | Solidity |
+| 28 | 09.2025 | [Sherlock](https://audits.sherlock.xyz) | Superlend | looping vault, AAVE | - | - | Solidity |
 | 29 | 10.2025 | [Sherlock](https://audits.sherlock.xyz) | Livo | Launchpad | 2M | - | Solidity |
 | 30 | 10.2025 | [Phage Security](https://phagesecurity.com/) | [Legend.trade](https://x.com/robinmarketsxyz) | megaETH GTE integration| 2M | [📑](https://github.com/phage-security/audits/blob/main/2025-10-legend.pdf) | Solidity |
 | 31 | 10.2025 | [Sherlock](https://audits.sherlock.xyz) | Football-Fun | AMM for 1155 NFTs |1 M | - | Solidity |
-| 32 | 11.2025 | [Sherlock](https://audits.sherlock.xyz) | Pred | Prediction Market | 3H, 4 M | - | Solidity |
-| 33 | 11.2025 | [Phage Security](https://phagesecurity.com/) | [RugRumble](https://x.com/RugRumble) | Lottary | - | [📑](https://github.com/phage-security/audits/blob/main/2025-11-ror.pdf) | Solidity |
+| 32 | 11.2025 | [Sherlock](https://audits.sherlock.xyz) | Pred | Prediction Market order book | 3H, 4 M | - | Solidity |
+| 33 | 11.2025 | [Phage Security](https://phagesecurity.com/) | [RugRumble](https://x.com/RugRumble) | Lottery | - | [📑](https://github.com/phage-security/audits/blob/main/2025-11-ror.pdf) | Solidity |
 
 
 # Contests 
