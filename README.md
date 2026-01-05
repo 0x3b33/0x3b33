@@ -40,7 +40,7 @@ Request an audit at https://t.me/Pyro3b
 | 6 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Hermetica | Ethena fork | 1C, 1H, 5M | [📑](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Hermetica.pdf) | Clarity (Stacks) |
 | 7 | 06.2024 | [Clarity Aliance](https://x.com/ClarAllianceSTX) | Asigna | NFT bridge | 1C, 3H, 2M | - | Clarity (Stacks) |
 | 8 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 7M | [📑](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2024.11.28%20-%20Final%20-%20Wasabi%20Audit%20Report.pdf) | Solidity |
-| 9 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 6H, 10M | - | Solana |
+| 9 | 11.2024 | [Sherlock](https://audits.sherlock.xyz) | Wasabi | Margin trading | 6H, 10M | [📑](https://wasabi-public.s3.us-east-1.amazonaws.com/audits/v1/Wasabi_Perps_Solana_Audit_Sherlock.pdf) | Solana |
 | 10 | 12.2024 | [Guardian](https://guardianaudits.com/) | Yuga | LZ read | 2C, 3H, 13M | - | Solidity |
 | 11 | 01.2025 | [Guardian](https://guardianaudits.com/) | USDT0 | USDT + LZ | - | [📑](https://github.com/Everdawn-Labs/usdt0-audit-reports/blob/main/Guardian/USDT0_Arbitrum_Upgrade.pdf) | Solidity |
 | 12 | 03.2025 | [Bail Security](https://bailsec.io/) | Inception | LST vault | 7H, 16M | - | Solidity |
@@ -65,6 +65,11 @@ Request an audit at https://t.me/Pyro3b
 | 31 | 10.2025 | [Sherlock](https://audits.sherlock.xyz) | Football-Fun | AMM for 1155 NFTs |1 M | - | Solidity |
 | 32 | 11.2025 | [Sherlock](https://audits.sherlock.xyz) | Pred | Prediction Market order book | 3H, 4 M | - | Solidity |
 | 33 | 11.2025 | [Phage Security](https://phagesecurity.com/) | [RugRumble](https://x.com/RugRumble) | Lottery | - | [📑](https://github.com/phage-security/audits/blob/main/2025-11-ror.pdf) | Solidity |
+| 34 | 12.2025 | [Phage Security](https://phagesecurity.com/) | [PolyLend](https://polylend.com/) | PM lending | 1H, 2M | private | Solidity |
+| 35 | 12.2025 | [Phage Security](https://phagesecurity.com/) | PandaX | Lottery | 2H, 4M | private | Solidity |
+| 36 | 12.2025 | [Sherlock](https://audits.sherlock.xyz) | Football-Fun | ERC20 | - | - | Solidity |
+| 37 | 01.2026 | [Sherlock](https://audits.sherlock.xyz) | Elsa | ERC20, ERC3009 | - | - | Solidity |
+
 
 
 # Contests 
