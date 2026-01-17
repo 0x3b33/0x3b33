@@ -68,8 +68,10 @@ Request an audit at https://t.me/Pyro3b
 | 34 | 12.2025 | [Phage Security](https://phagesecurity.com/) | [PolyLend](https://polylend.com/) | PM lending | 1H, 2M | private | Solidity |
 | 35 | 12.2025 | [Phage Security](https://phagesecurity.com/) | PandaX | Lottery | 2H, 4M | private | Solidity |
 | 36 | 12.2025 | [Sherlock](https://audits.sherlock.xyz) | Football-Fun | ERC20 | - | - | Solidity |
-| 37 | 01.2026 | [Sherlock](https://audits.sherlock.xyz) | Elsa | ERC20, ERC3009 | - | - | Solidity |
-
+| 37 | 12.2025 | [Phage Security](https://phagesecurity.com/) | [Poly Lend](https://x.com/poly_lend) | PM + lending | 1H, 2M | private | Solidity |
+| 38 | 01.2026 | [Sherlock](https://audits.sherlock.xyz) | Elsa | ERC20, ERC3009 | - | - | Solidity |
+| 39 | 01.2026 | [Sherlock](https://audits.sherlock.xyz) | [EasyA](https://x.com/EasyA_Labs) | Bonding curve | 2M | - | Solidity |
+| 40 | 01.2026 | [Phage Security](https://phagesecurity.com/) | [Spiral Stake](https://x.com/0xspiralstake) | Leveraged stable assets | - | - | Solidity |
 
 
 # Contests 
