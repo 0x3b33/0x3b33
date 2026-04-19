@@ -1,14 +1,16 @@
 I do audits
 
-Lead Security Researcher at [Sherlock](https://audits.sherlock.xyz/leaderboards) (under X77)
+Lead Security Researcher at [Sherlock](https://audits.sherlock.xyz/leaderboards)
 
-Over 400 H/M bugs found.
+100+ audits done and 500+ H/M bugs found.
 
-Worked with [Guardian Audits](https://guardianaudits.com/), [Bail Security](https://bailsec.io/) and [Pashov Audit Group](https://www.pashov.net/)
+Founder of [Phage Security](https://phagesecurity.com/), worked with:
+- [Guardian Audits](https://guardianaudits.com/)
+- [Bail Security](https://bailsec.io/)
+- [Pashov Audit Group](https://www.pashov.net/)
 
-
-- X (Twitter) at https://x.com/0x3b33
-
+- X (Twitter) - https://x.com/0x3b33
+- Articles - https://paragraph.com/0x3b.eth
 ---
 
 Request an audit at https://t.me/Pyro3b
@@ -69,8 +71,15 @@ Request an audit at https://t.me/Pyro3b
 | 35 | 12.2025 | [Phage Security](https://phagesecurity.com/) | PandaX | Lottery | 2H, 4M | private | Solidity |
 | 36 | 12.2025 | [Sherlock](https://audits.sherlock.xyz) | Football-Fun | ERC20 | - | - | Solidity |
 | 37 | 01.2026 | [Sherlock](https://audits.sherlock.xyz) | Elsa | ERC20, ERC3009 | - | - | Solidity |
-| 38 | 01.2026 | [Sherlock](https://audits.sherlock.xyz) | [EasyA](https://x.com/EasyA_Labs) | Bonding curve | 2M | - | Solidity |
-| 39 | 01.2026 | [Phage Security](https://phagesecurity.com/) | [Spiral Stake](https://x.com/0xspiralstake) | Leveraged stable assets | - | - | Solidity |
+| 38 | 01.2026 | [Sherlock](https://audits.sherlock.xyz) | [EasyA](https://x.com/EasyA_Labs) | Bonding curve, AerodromeV2 | 2M | - | Solidity |
+| 39 | 01.2026 | [Phage Security](https://phagesecurity.com/) | [Spiral Stake](https://x.com/0xspiralstake) | Leveraged stable assets | 1H, 4M | [📑](https://github.com/phage-security/audits/blob/main/2026-01-spiralStake) | Solidity |
+| 40 | 01.2026 | [Robin Markets](https://x.com/robinmarketsxyz) | PM yield generator | 4H, 2M, 3L | private | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
+| 41 | 02.2026 | [UpShot](https://x.com/upshot_cards) | Vault | 1H | [📑](https://github.com/phage-security/audits/blob/main/2026-02-upshot.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
+| 42 | 02.2026 | [Sherlock](https://audits.sherlock.xyz) | Superlend | looping vault, AAVE | - | - | Solidity |
+| 43 | 02.2026 | [Sherlock](https://audits.sherlock.xyz) | [EasyA](https://x.com/EasyA_Labs) | Bonding curve, Aerodrome v2 + v3 | - | - | Solidity |
+| 44 | 03.2026 | [Sherlock](https://audits.sherlock.xyz) | [Citrea](https://citrea.xyz/) | Bonding curve | - | - | Solidity |
+| 45 | 03.2026 | [Sherlock](https://audits.sherlock.xyz) | [Zyfai](https://x.com/EasyA_Labs) | Vault | 3M | - | Solidity |
+| 46 | 04.2026 | [Sherlock](https://audits.sherlock.xyz) | Football-Fun | NFT marketplace | - | - | Solidity |
 
 
 # Contests 
