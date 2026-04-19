@@ -9,6 +9,8 @@ Founder of [Phage Security](https://phagesecurity.com/), worked with:
 - [Bail Security](https://bailsec.io/)
 - [Pashov Audit Group](https://www.pashov.net/)
 
+---
+
 - X (Twitter) - https://x.com/0x3b33
 - Articles - https://paragraph.com/0x3b.eth
 ---
