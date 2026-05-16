@@ -82,7 +82,9 @@ Request an audit at https://t.me/Pyro3b
 | 44 | 03.2026 | [Sherlock](https://audits.sherlock.xyz) | [Citrea](https://citrea.xyz/) | Bonding curve | - | - | Solidity |
 | 45 | 03.2026 | [Sherlock](https://audits.sherlock.xyz) | [Zyfai](https://x.com/EasyA_Labs) | Vault | 3M | - | Solidity |
 | 46 | 04.2026 | [Sherlock](https://audits.sherlock.xyz) | Football-Fun | NFT marketplace | - | - | Solidity |
-| 47 | 08.2025 | [Phage Security](https://phagesecurity.com/) | [Bounce Tech](https://x.com/BounceDotTech) | leveraged token on Hype | 2M | - | Solidity |
+| 47 | 04.2026 | [Phage Security](https://phagesecurity.com/) | [Bounce Tech](https://x.com/BounceDotTech) | leveraged token on Hype | 2M | - | Solidity |
+| 48 | 04.2026 | [Phage Security](https://phagesecurity.com/) | [Trepa](https://x.com/trepa_io) | Prediction Market | 2H, 6M, 7L | [📑](https://github.com/phage-security/audits/blob/main/2026-04-trepa.pdf) | Solana + ts/rs BE |
+| 49 | 05.2026 | [Phage Security](https://phagesecurity.com/) | [Alt Fun](https://x.com/altdotfun) | Bonding curve + UNIv2 | 2M, 8L | [📑](https://github.com/phage-security/audits/blob/main/2026-05-altFun.pdf) | Solidity |
 
 # Contests 
 | № | Date | Project | Category | Vulnerabilities | Report  | Language | Rank |
