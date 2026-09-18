@@ -86,10 +86,10 @@ Request an audit at https://t.me/Pyro3b
 | 48 | 04.2026 | [Phage Security](https://phagesecurity.com/) | [Trepa](https://x.com/trepa_io) | Prediction Market | 2H, 6M, 7L | [📑](https://github.com/phage-security/audits/blob/main/2026-04-trepa.pdf) | Solana + ts/rs BE |
 | 49 | 05.2026 | [Phage Security](https://phagesecurity.com/) | [Alt Fun](https://x.com/altdotfun) | Bonding curve + UNIv2 | 2M, 8L | [📑](https://github.com/phage-security/audits/blob/main/2026-05-altFun.pdf) | Solidity |
 | 50 | 05.2026 | [Phage Security](https://phagesecurity.com/) | [Robin Markets](https://x.com/robinmarketsxyz) | PM yield generator | 2H, 5M, 4L | [📑](https://github.com/phage-security/audits/blob/main/2026-05-robinMarkets.pdf) | Solidity |
-| 51 | 06.2026 | [Phage Security](https://phagesecurity.com/) | [PerpGame](https://x.com/PerpGame) | Index token | 1H, 12M, 13L | [📑](https://github.com/phage-security/audits/blob/main/2026-06-perpGame.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
+| 51 | 06.2026 | [Phage Security](https://phagesecurity.com/) | [PerpGame](https://x.com/PerpGame) | Index token | 1H, 12M, 13L | [📑](https://github.com/phage-security/audits/blob/main/2026-06-perpGame.pdf) | Solidity |
 | 52 | 07.2026 | [Sherlock](https://audits.sherlock.xyz) | Football-Fun | NFT marketplace | - | - | Solidity |
-| 53 | 08.2026 | [Phage Security](https://phagesecurity.com/) | [Bounce Tech](https://x.com/BounceDotTech) | leveraged token on Hype, referrals | 2M, 7L | [📑](https://github.com/phage-security/audits/blob/main/2026-08-bounceTech.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
-| 54 | 08.2026 | [Phage Security](https://phagesecurity.com/) | [Robin Markets](https://x.com/robinmarketsxyz) | splitting to YES+NO for yield | 1M, 3L | [📑](https://github.com/phage-security/audits/blob/main/2026-08-robinMarkets.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
+| 53 | 08.2026 | [Phage Security](https://phagesecurity.com/) | [Bounce Tech](https://x.com/BounceDotTech) | leveraged token on Hype, referrals | 2M, 7L | [📑](https://github.com/phage-security/audits/blob/main/2026-08-bounceTech.pdf) | Solidity |
+| 54 | 08.2026 | [Phage Security](https://phagesecurity.com/) | [Robin Markets](https://x.com/robinmarketsxyz) | splitting to YES+NO for yield | 1M, 3L | [📑](https://github.com/phage-security/audits/blob/main/2026-08-robinMarkets.pdf) | Solidity |
 | 55 | 08.2026 | private | private | Augur + LST + PM | 7H, 18M | - | Solidity |
 | 56 | 09.2026 | private | private | UNIv2/3 + launchpad | 1H, 6M, 5L | - | Solidity |
 | 57 | 09.2026 | private | private | Univ4 launchpad | 2H, 5M | - | Solidity |
