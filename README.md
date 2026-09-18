@@ -141,10 +141,10 @@ Request an audit at https://t.me/Pyro3b
 
 # Bug bounties
 
-| № | Date | Project | Project Category | Type | Severity | Write-up  | Language | Payout |
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-| 1 | 06.2026 | [True Markets](https://x.com/Trueo_) | Prediction Market | Access controll | Critical | [📑](https://x.com/0x3b33/status/2067182651358794098) | Solidity | 0 | 
-| 2 | 07.2026 | [Allora](https://x.com/AlloraNetwork) | AI chain | Chain halt (DoS) | Critical | private | Go (Cosmos) | 0 |
-| 3 | 08.2026 | [Polkamarkets](https://x.com/Polkamarkets) | Prediction Market | Price manipulation | High | private | Solidity | 200$ |
-| 4 | 08.2026 | [XO Markets](https://x.com/xomarket) | Prediction Market, LS-LMSR + CLOB | Precision loss | High | private | Solidity | 500$ |
-| 5 | 09.2026 | [TrendleFi](https://x.com/TrendleFi) | Attention markets, leverage | LP share pricing | High | private | Solidity | 0 |
+| № | Date | Project | Project Category | Type | Severity | Write-up  | Language |
+|:--|:--|:--|:--|:--|:--|:--|:--|
+| 1 | 06.2026 | [True Markets](https://x.com/Trueo_) | Prediction Market | Access controll | Critical | [📑](https://x.com/0x3b33/status/2067182651358794098) | Solidity |
+| 2 | 07.2026 | [Allora](https://x.com/AlloraNetwork) | AI chain | Chain halt (DoS) | Critical | private | Go (Cosmos) |
+| 3 | 08.2026 | [Polkamarkets](https://x.com/Polkamarkets) | Prediction Market | Price manipulation | High | private | Solidity |
+| 4 | 08.2026 | [XO Markets](https://x.com/xomarket) | Prediction Market, LS-LMSR + CLOB | Precision loss | High | private | Solidity |
+| 5 | 09.2026 | [TrendleFi](https://x.com/TrendleFi) | Attention markets, leverage | LP share pricing | High | private | Solidity |
