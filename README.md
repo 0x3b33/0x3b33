@@ -92,8 +92,8 @@ Request an audit at https://t.me/Pyro3b
 | 54 | 08.2026 | [Phage Security](https://phagesecurity.com/) | [Robin Markets](https://x.com/robinmarketsxyz) | splitting to YES+NO for yield | 1M, 3L | [📑](https://github.com/phage-security/audits/blob/main/2026-08-robinMarkets.pdf) | Solidity |
 | 55 | 08.2026 | private | private | Augur + LST + PM | 7H, 18M | - | Solidity |
 | 56 | 09.2026 | private | private | UNIv2/3 + launchpad | 1H, 6M, 5L | - | Solidity |
-| 57 | 09.2026 | private | private | Univ4 launchpad | 2H, 5M | - | Solidity |
-| 58 | 09.2026 | private | private | Univ4 launchpad | - | - | Solidity |
+| 57 | 09.2026 | private | private | Univ4 hooks | 2H, 5M | - | Solidity |
+| 58 | 09.2026 | private | private | Univ4 hooks + stable coints | - | - | Solidity |
 
 
 # Contests 
@@ -147,7 +147,4 @@ Request an audit at https://t.me/Pyro3b
 | 2 | 07.2026 | [Allora](https://x.com/AlloraNetwork) | AI chain | Chain halt (DoS) | Critical | private | Go (Cosmos) | 0 |
 | 3 | 08.2026 | [Polkamarkets](https://x.com/Polkamarkets) | Prediction Market | Price manipulation | High | private | Solidity | 200$ |
 | 4 | 08.2026 | [XO Markets](https://x.com/xomarket) | Prediction Market, LS-LMSR + CLOB | Precision loss | High | private | Solidity | 500$ |
-| 5 | 08.2026 | [IRIS](https://x.com/iris_credit) | Fixed-rate lending, Morpho + AAVE | Accounting | High | private | Solidity | 0 |
-| 6 | 08.2026 | [Robiance](https://x.com/Robiance_) | Stablecoin CDP + yield vault | Collateral drain | Critical | private | Solidity | 0 |
-| 7 | 09.2026 | [TrendleFi](https://x.com/TrendleFi) | Attention markets, leverage | LP share pricing | High | private | Solidity | 0 |
-| 8 | 09.2026 | [Plether](https://x.com/plether_fi) | Dollar synthetics + staking | Share inflation | High | private | Solidity | 0 |
+| 5 | 09.2026 | [TrendleFi](https://x.com/TrendleFi) | Attention markets, leverage | LP share pricing | High | private | Solidity | 0 |
