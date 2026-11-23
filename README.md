@@ -92,7 +92,7 @@ Request an audit at https://t.me/Pyro3b
 | 54 | 08.2026 | [Phage Security](https://phagesecurity.com/) | Inflow: Protocol X | fee-on-transfer token on PulseChain | 6H, 10M, 8L | [📑](https://github.com/phage-security/audits/blob/main/2026-08-inflow.pdf) | Solidity |
 | 55 | 08.2026 | [Phage Security](https://phagesecurity.com/) | [Robin Markets](https://x.com/robinmarketsxyz) | splitting to YES+NO for yield | 1M, 3L | [📑](https://github.com/phage-security/audits/blob/main/2026-08-robinMarkets.pdf) | Solidity |
 | 56 | 08.2026 | - | - | Augur + LST + PM | 7H, 18M | - | Solidity |
-| 57 | 09.2026 | - | - | UNIv2/3 + launchpad | 6H, 10M, 8L | - | Solidity |
+| 57 | 09.2026 | - | Olyx | UNIv2/3 + launchpad | 6H, 10M, 8L | - | Solidity |
 | 58 | 09.2026 | - | - | Univ4 hooks | 5M | - | Solidity |
 | 59 | 09.2026 | - | - | Univ4 hooks + stable coints | 2L | - | Solidity |
 | 60 | 10.2026 | - | - | Univ4 hooks + launchpad | 5M | - | Solidity |
